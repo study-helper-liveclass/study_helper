@@ -7,31 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 국어  
-<국어! 이렇게 공부해야 서울대 갑니다>  
-https://www.youtube.com/watch?v=zIRaOzIDSQ4  
-
-<3등급 이하 필독! 정시 노베이스 국어 공부법>  
-https://www.youtube.com/watch?v=klFrF1TtIm4  
-
-<등급별 9월 이후 공부법 -4.5등급 국어공부 막판 공부계획>  
-https://www.youtube.com/watch?v=i7U7Io6DxEY  
-
-<국어 1등급 공부법 -성적 올릴 땐 노트정리 아니고 ㅇㅇㅇ이다>  
-https://www.youtube.com/watch?v=OR6UvaNagfQ  
-
-<수능 국어 만점자의 국어 비문학 공부법>  
-https://www.youtube.com/watch?v=h6W_dWYX2kQ  
-
-<모의고사 D-7,아직도 국어 비문학이 어려운 분들을 위한 선지 구별법>  
- https://www.youtube.com/watch?v=-LLOjpWF26I  
-
-<무조건 2등급은 나오는 국어 공부 전략>  
-https://www.youtube.com/watch?v=mWKQ6xoK80c  
-
-<전교1등 국어 내신 공부법>  
-https://www.youtube.com/watch?v=gGr9DS228ig  
-
-<연계교재 버리고 비문학 분석하지 마세요>  
-https://www.youtube.com/watch?v=TJzKUQdimEY  
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---

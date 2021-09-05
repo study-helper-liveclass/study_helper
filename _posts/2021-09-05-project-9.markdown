@@ -7,27 +7,5 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: 영어
-
-<수능 영어 무조건 90점 이상 받는 법>
-https://www.youtube.com/watch?v=q3A44UXocbE
-
-<영어 1등급 내신 괴물 공부법>
-https://www.youtube.com/watch?v=TwWZ7gV8z8g
-
-<100점 받는 영어 내신 공부법>
- https://www.youtube.com/watch?v=nLSZHiAc3YM
-
-<영어 모의고사, 수능 레전드 공부법>
- https://www.youtube.com/watch?v=9RRBTCSkWqs
-
-<EBS 보지마세요, 수능 영어 공부법 랜선과외>
-https://www.youtue.com/watch?v=bBcJv_Ppgqs
-
-<3등급도 1등급 만드는 영어 공부법 끝판왕>
-https://www.youtube.com/watch?v=8rFRyt74L2I
-
-<영어 공부법 -노베이스, 중상위권, 무조건 보세요>
-https://www.youtube.com/watch?v=1zm0o-b66RI
-
+description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
 ---
