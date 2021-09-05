@@ -7,5 +7,28 @@ alt: image-alt
 project-date: April 2014
 client: Start Bootstrap
 category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+description: <수학공부 ‘독학’으로 하는 법>
+https://www.youtube.com/watch?v=LS8xXMLdLe4
+
+<3개월만에 수학 4등급에서 수능 96점으로 만든 비법>
+https://www.youtube.com/watch?v=l6I1g-Z1Jmg
+
+<등급별 수학 공부법>
+https://www.youtube.com/watch?v=Bl-eQOxVDbg
+
+<수포자가 반년만에 수학 48점에서 만점 받은 썰>
+https://www.youtube.com/watch?v=qAi8Gav5B10
+
+<나를 서울대에 합격시킨 수학 공부법>
+https://www.youtube.com/watch?v=tmSZmQRQHu8
+
+<전교 1등의 수학 내신 공부법>
+ https://www.youtube.com/watch?v=gSxOfZue8aU
+
+<수학 나형, 킬러 문제 빼고 다 맞는 법>
+https://www.youtube.com/watch?v=2NY7CN_4_8g
+
+<수능 한달의기적! 한달만에 7등급에서 2등급으로!!>
+ https://www.youtube.com/watch?v=qwpIEh-irG0
+
 ---
